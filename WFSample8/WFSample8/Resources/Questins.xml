@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>1.В Японии ученики на доске пишут кисточкой с цветными чернилами? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>2.В Австралии практикуется применение одноразовых школьных досок? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>3.Авторучка была изобретена еще в Древнем Египте? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>4.Шариковая ручка сначала применялась только военными летчиками? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>5.В Африке выпускаются витаминизированные карандаши для детей, имеющих обыкновение грызть что попало? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>6.В некоторые виды цветных карандашей добавляется экстракт моркови для большей прочности грифеля? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>7.Римляне носили штаны? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>8.Если пчела ужалит кого-либо, то она погибнет? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>9.Правда ли что, пауки питаются собственной паутиной? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>10.В одном корейском цирке двух крокодилов научили танцевать вальс. </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>11.На зиму пингвины улетают на север? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>12.Если камбалу положить на шахматную доску, она тоже станет клетчатой. </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>13.Спартанские воины перед битвой опрыскивали волосы духами. </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>14.Мыши подрастая становятся крысами? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>15.Некоторые лягушки умеют летать? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>16.Дети могут слышать более высокие звуки, чем взрослые? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>17.Глаз наполнен воздухом? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>18.Утром вы выше ростом, чем вечером? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>19.В некоторых местах люди по-прежнему моются с помощью оливкового масла? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>20.Летучие мыши могут принимать радиосигналы? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>21.Совы не могут вращать глазами? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>22.Лось является разновидностью оленя? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>23.Жирафы по ночам отыскивают с помощью эха листья, которыми питаются? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>24.Дельфины — это маленькие киты? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>25.Рог носорога обладает магической силой? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>26.В некоторых странах жуков-светляков используют в качестве осветительных приборов? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>27.Мартышка обычно бывает размером с котенка? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>28.Счастливая монета Скруджа была достоинством в 10 центов? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>29.Дуремар занимался продажей лягушек? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>30.Мойву эскимосы сушат и едят вместо хлеба? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>31.Радугу можно увидеть и в полночь? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>32.Больше всего репы выращивают в России? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>33.Слон, встречаясь с незнакомым сородичем, здоровается следующим образом — кладет ему хобот в рот? </Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>34.Настоящее имя Ганса Христиана Андерсена было Свенсен? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>35.В медицине диагноз «синдром Мюнхгаузена» ставится пациенту, который много врет? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>36.Рост Конька — Горбунка составляет два вершка? </Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+</ArrayOfQuestion>

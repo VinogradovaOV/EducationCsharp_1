@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>Все ли мыши серые?</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>2 Все ли Савельки веселые?</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>3 Все ли машины зеленые?</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>4 Всегда ли солнце светит?</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+</ArrayOfQuestion>
